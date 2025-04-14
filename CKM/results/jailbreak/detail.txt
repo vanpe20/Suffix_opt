@@ -1,0 +1,214 @@
+Latent: 405
+GCG:0.985
+AmpleGCG: 0.970
+AmpleGCG-plus: 0.940
+
+Latent: 380
+GCG: 0.903
+AmpleGCG: 0.870
+AmpleGCG-plus: 0.880
+
+Latent: 1913
+GCG:0.881
+AmpleGCG: 0.630
+AmpleGCG-plus: 0.570
+
+Latent: 1179
+GCG:0.836
+AmpleGCG: 0.860
+AmpleGCG-plus: 0.870
+
+Latent: 1321
+GCG: 0.832 
+AmpleGCG: 0.760
+AmpleGCG-plus: 0.670
+
+Latent: 1859
+GCG: 0.821 
+AmpleGCG: 0.550
+AmpleGCG-plus: 0.630
+
+Latent: 1820
+GCG: 0.817
+AmpleGCG: 0.530
+AmpleGCG-plus: 0.520
+
+Latent: 1734
+GCG: 0.795 
+AmpleGCG: 0.650
+AmpleGCG-plus: 0.570
+
+Latent: 292
+GCG: 0.776
+AmpleGCG: 0.680
+AmpleGCG-plus: 0.620
+
+Latent: 489
+GCG: 0.772
+AmpleGCG: 0.560
+AmpleGCG-plus: 0.730
+
+Latent: 1926
+GCG: 0.761
+AmpleGCG: 0.600
+AmpleGCG-plus: 0.640
+
+Latent: 1436
+GCG: 0.757
+AmpleGCG: 0.620
+AmpleGCG-plus: 0.670
+
+Latent: 1763
+GCG: 0.757
+AmpleGCG: 0.680
+AmpleGCG-plus: 0.630
+
+Latent: 1137
+GCG: 0.750
+AmpleGCG: 0.560
+AmpleGCG-plus: 0.570
+
+Latent: 1147
+GCG: 0.716
+AmpleGCG: 0.660
+AmpleGCG-plus: 0.620
+
+Latent: 63
+GCG: 0.709
+AmpleGCG: 0.640
+AmpleGCG-plus: 0.550
+
+Latent: 1497
+GCG: 0.698
+AmpleGCG: 0.570 
+AmpleGCG-plus: 0.610
+
+Latent: 1212
+GCG: 0.690
+AmpleGCG: 0.590
+AmpleGCG-plus: 0.560
+
+Latent: 1018
+GCG: 0.690
+AmpleGCG: 0.630
+AmpleGCG-plus: 0.710
+
+Latent: 1736
+GCG: 0.690
+AmpleGCG: 0.580
+AmpleGCG-plus: 0.590
+
+Latent: 50
+GCG: 0.687
+AmpleGCG: 0.620
+AmpleGCG-plus: 0.620 
+
+Latent: 746
+GCG: 0.675
+AmpleGCG: 0.590
+AmpleGCG-plus: 0.590
+
+Latent: 1192
+GCG: 0.675
+AmpleGCG: 0.600
+AmpleGCG-plus: 0.640
+
+Latent: 305
+GCG: 0.657 
+AmpleGCG: 0.530
+AmpleGCG-plus: 0.560
+
+Latent: 1677
+GCG: 0.653
+AmpleGCG: 0.700
+AmpleGCG-plus: 0.700
+
+Latent: 912
+GCG: 0.642
+AmpleGCG: 0.560
+AmpleGCG-plus: 0.630
+
+Latent: 1957
+GCG: 0.634
+AmpleGCG: 0.580
+AmpleGCG-plus: 0.530
+
+Latent: 1126
+GCG: 0.631
+AmpleGCG: 0.570
+AmpleGCG-plus: 0.540
+
+Latent: 1132
+GCG: 0.612
+AmpleGCG: 0.570
+AmpleGCG-plus: 0.610
+
+Latent: 798
+GCG: 0.608 
+AmpleGCG: 0.680 
+AmpleGCG-plus: 0.630
+
+Latent: 1877
+GCG: 0.604
+AmpleGCG: 0.620
+AmpleGCG-plus: 0.550
+
+Latent: 372
+GCG: 0.601
+AmpleGCG: 0.550
+AmpleGCG-plus: 0.570 
+
+Latent: 1390
+GCG: 0.601
+AmpleGCG: 0.500
+AmpleGCG-plus: 0.500
+
+Latent: 495
+GCG: 0.590
+AmpleGCG: 0.560
+AmpleGCG-plus: 0.550
+
+Latent: 756
+GCG: 0.586
+AmpleGCG: 0.500
+AmpleGCG-plus: 0.510
+
+Latent: 195
+GCG: 0.578
+AmpleGCG: 0.660
+AmpleGCG-plus: 0.610
+
+Latent: 527
+GCG: 0.575
+AmpleGCG: 0.720
+AmpleGCG-plus: 0.760
+
+Latent: 1477
+GCG: 0.571
+AmpleGCG: 0.600
+AmpleGCG-plus: 0.610
+
+Latent: 1053
+GCG: 0.560
+AmpleGCG: 0.560
+AmpleGCG-plus: 0.630
+
+Latent: 1549
+GCG: 0.560
+AmpleGCG: 0.530
+AmpleGCG-plus: 0.570
+
+Latent: 452
+GCG: 0.556
+AmpleGCG: 0.630 
+AmpleGCG-plus: 0.600
+
+Latent: 1738
+GCG: 0.534
+AmpleGCG: 0.590
+AmpleGCG-plus: 0.650
+
+Latent: 800
+GCG: 0.500
+AmpleGCG: 0.630
+AmpleGCG-plus: 0.610

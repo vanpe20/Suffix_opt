@@ -1,0 +1,33 @@
+C3:
+Latent: 1145, Frequency: 4
+Latent: 2020, Frequency: 4 
+
+S1:
+Latent: 32, Frequency: 6
+Latent: 1660, Frequency: 5
+Latent: 495, Frequency: 5
+Latent: 570, Frequency: 4
+Latent: 2020, Frequency: 4 
+Latent: 1823, Frequency: 4 
+
+Jailbreak：
+Latent: 405, Frequency: 3
+Latent: 1913, Frequency: 3 
+Latent: 1179, Frequency: 3 
+Latent: 1321, Frequency: 3 
+Latent: 1859, Frequency: 3 
+Latent: 1820, Frequency: 3 
+Latent: 292, Frequency: 3 
+Latent: 1926, Frequency: 3 
+Latent: 1137, Frequency: 3 
+Latent: 63, Frequency: 3 
+Latent: 1497, Frequency: 3 
+Latent: 1018, Frequency: 3 
+Latent: 1736, Frequency: 3
+Latent: 50, Frequency: 3  
+Latent: 1957, Frequency: 3 
+Latent: 1957, Frequency: 3 
+Latent: 1957, Frequency: 3 
+Latent: 1477, Frequency: 3 
+Latent: 1549, Frequency: 3 
+Latent: 800, Frequency: 3 
